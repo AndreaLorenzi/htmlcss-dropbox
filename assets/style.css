@@ -240,3 +240,130 @@ header .jumbo img{
 .sct5-title-link .conteiner-small{
     margin-bottom: 5rem;
 }
+/* section 6 svg */
+
+.conteiner-xl{
+    display: flex;
+}
+
+.quadri{
+    display:flex;
+    flex-wrap: wrap;
+    flex: 0 0 calc(100% / 3);
+}
+
+.quadratino{
+    width: calc(100% / 2);
+    height: 300px;
+}
+/* inizio blocco sinistro */
+.quadratino.designit{
+    background-color: #A2D39B;
+}
+.designit-2{
+    width: 100%;
+    height: 100%;
+    background-image: url(../img/designit.svg);
+    background-size: 60%;
+    background-position: center;
+    background-repeat: no-repeat;
+    filter: invert(1);
+
+}
+.quadratino.arizona{
+    background-color: #61082b;
+}
+.arizona-2{
+    width: 100%;
+    height: 100%;
+    background-image: url(../img/arizona_state_university.svg);
+    background-size: 60%;
+    background-position: center;
+    background-repeat: no-repeat;
+    filter: invert(1);
+}
+.quadratino.florida{
+    background-color: #0093ce;
+}
+.florida-2{
+    width: 100%;
+    height: 100%;
+    background-image: url(../img/university_of_florida.svg);
+    background-size: 70%;
+    background-position: center;
+    background-repeat: no-repeat;
+    filter: invert(1);
+}
+.quadratino.topps{
+    background-color: #ff1c1c;
+}
+.topps-2{
+    width: 100%;
+    height: 100%;
+    background-image: url(../img/topps.svg);
+    background-size: 70%;
+    background-position: center;
+    background-repeat: no-repeat;
+    filter: invert(1);
+}
+/* fine blocco sinistro */
+/* inizio blocco centrale */
+.logo-designit{
+    margin: 1rem;
+}
+.content-center{
+    margin:1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+/* inizio blocco destro */
+.quadratino.world{
+    background-color: #d5001f;
+}
+.world-2{
+    width: 100%;
+    height: 100%;
+    background-image: url(../img/world_bicycle_relief.svg);
+    background-size: 70%;
+    background-position: center;
+    background-repeat: no-repeat;
+    filter: invert(1);
+}
+.quadratino.hearst{
+    background-color: #B4D0E7;
+}
+.hearst-2{
+    width: 100%;
+    height: 100%;
+    background-image: url(../img/hearst_corp.svg);
+    background-size: 70%;
+    background-position: center;
+    background-repeat: no-repeat;
+    filter: invert(1);
+}
+.quadratino.lonely{
+    background-color: #0d2481;
+}
+.lonely-2{
+    width: 100%;
+    height: 100%;
+    background-image: url(../img/lonely_planet.svg);
+    background-size: 70%;
+    background-position: center;
+    background-repeat: no-repeat;
+    filter: invert(1);
+}
+.quadratino.clear{
+    background-color: #ffd830;
+}
+.clear-2{
+    width: 100%;
+    height: 100%;
+    background-image: url(../img/clear_channel.svg);
+    background-size: 70%;
+    background-position: center;
+    background-repeat: no-repeat;
+    filter: invert(1);
+}
+/* fine blocco destro */
