@@ -216,7 +216,7 @@ header .jumbo img{
 
 .features h2{
     flex: 0 0 100%;
-    margin-top: 3rem;
+    margin-top: 4rem;
     font-size: 3rem;
 }
 
@@ -227,4 +227,16 @@ header .jumbo img{
 
 .features img{
     width: 100%;
+}
+
+/* section 5 totòe and link */
+
+.title-sct5{
+    font-size: 3rem;
+    margin-top: 7rem;
+    margin-bottom: 2rem;
+}
+
+.sct5-title-link .conteiner-small{
+    margin-bottom: 5rem;
 }
