@@ -367,3 +367,31 @@ header .jumbo img{
     filter: invert(1);
 }
 /* fine blocco destro */
+/* section business */
+#background-business{
+    background-color: #b4d0e7;
+    padding: 6rem;
+}
+.title-business{
+    color: #61082b;
+    font-size: 3rem;
+}
+.business{
+    display: flex;
+}
+.title-bsn{
+    flex: 0 0 60%;
+}
+.button-business{
+    width: 60%;
+    height: 40%;
+    font-size: 15px;
+    border-color: transparent;
+}
+.button-bsn{
+    flex: 0 0 40%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+/* domande frequenti */
